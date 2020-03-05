@@ -5,6 +5,19 @@
 
 ## Inhaltsverzeichnis
 
+## Wissenstand
+### Linux
+
+### Vagrant
+
+### Virtualisierung
+
+### Git
+
+### Markdown
+
+### Systemsicherheit
+
 ## Installation Toolumgebung
 Zur Installierung der Toolumgebung müssen folgende Software installier werden:
 - VirtualBox
@@ -12,7 +25,18 @@ Zur Installierung der Toolumgebung müssen folgende Software installier werden:
 - Visual Studio Code
   - Extensions
 ### Github Account einrichten
-Zu Beginn der Installation, muss ein Account bei Guthub eingerichtet werden. Dieser wird nämlich später als "Cloud-Speicher" verwendet.
+Zu Beginn der Installation, muss ein Account bei Github eingerichtet werden. Dieser wird nämlich später als "Cloud-Speicher" verwendet.
+
+### VirtualBox installieren
+
+### Vagrant installieren
+
+### Visual Studio Code installieren
+
+
+## Auftrag
+
+
 
 ## Links
 
