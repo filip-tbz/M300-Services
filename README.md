@@ -99,14 +99,14 @@ Die Dokumentation habe ich so aufgebaut, dass bereits alle Kriterien der Lernbeu
 
 ### Persönlicher Wissenstand
 
-| Thema                  | Wissenstand |
-| ---------------------- | ----------- |
-| Linux                  ||
-| Virtualisierung        ||
-| Vagrant                ||
-| Versionsverwaltung/Git ||
-| Mark Down              ||
-| Systemsicherheit       ||
+| Thema                  | Wissenstand                                                          |
+| ---------------------- | -------------------------------------------------------------------- |
+| Linux                  |                                                                      |
+| Virtualisierung        |                                                                      |
+| Vagrant                |                                                                      |
+| Versionsverwaltung/Git |                                                                      |
+| Mark Down              |                                                                      |
+| Systemsicherheit       |                                                                      |
 
 ### Wichtige Lernschritte
 
