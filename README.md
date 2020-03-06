@@ -87,11 +87,25 @@ Hier ein Beweis, dass der Git-Client verwendet wurde:
 
 ### Mark Down Dokumentation
 
+Ich habe die Dokumentation in der README.md Datei erfasst. Das diese in Mark Down geschrieben wurde sollte ersichtlich sein.
+
 ### Mark Down Editor
+
+Ich habe in diesem Fall kein Mark Down Editor benutzt, sondern die README.md Datei in Visual Studio Code bearbeitet, gespeichert, commited und gepusht. Als Alternative hatte ich noch den Editor Atom zur Verfügung, jedoch verwendete ich diesen nicht für die Dokumentation.
 
 ### Mark Down ist strukturiert
 
+Die Dokumentation habe ich so aufgebaut, dass bereits alle Kriterien der Lernbeurteilung ersichtlich sind und ob diese erfüllt wurden oder nicht. 
+
 ### Persönlicher Wissenstand
+
+| Thema | Wissenstand |
+| Linux ||
+| Virtualisierung||
+| Vagrant||
+| Versionsverwaltung/Git||
+| Mark Down ||
+| Systemsicherheit ||
 
 ### Wichtige Lernschritte
 
