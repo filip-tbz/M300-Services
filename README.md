@@ -46,8 +46,13 @@ Zu Beginn der Installation, muss ein Account bei Github eingerichtet werden. Die
 
 
 ### Befehle, die man kennen sollte
+Mit diesem Befehl können sie Visual Studio Code öffnen:
+`code`
 
+Mit diesem Befehl könnt über der CLI den Server starten:
+`vagrant up`
 
+## Reflexion
 
 ## Links
 
