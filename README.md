@@ -127,6 +127,12 @@ Die Dokumentation habe ich so aufgebaut, dass bereits alle Kriterien der Lernbeu
 | -------------- | -------------- |
 | vagrant up     ||
 | vagrant status ||
+|||
+|||
+|||
+|||
+|||
+|||
 
 ### Eingerichtete Umgebung ist dokumentiert
 
