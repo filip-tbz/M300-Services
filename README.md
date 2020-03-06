@@ -1,5 +1,5 @@
 # Dokumentation Lernbeurteilung 2
-![alt text](https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/Cloud%20with%20light%20coming%20from%20it%20and%20connected%20vectors%20within.jpg?itok=9i48eejV "Logo Title Text 1")
+![alt text](https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/Cloud%20with%20light%20coming%20from%20it%20and%20connected%20vectors%20within.jpg?itok=9i48eejV "Cloud")
 
 **Modul 300, FR20, Lehrer: Philip Rohr, Autor: Shagithijan Baasgaran** 
 
@@ -12,6 +12,7 @@
           SSH-Key für Client erstellt
 
 ### VirtualBox 
+![alt text](https://raw.githubusercontent.com/tbzsaii/M300-Services/master/img/virtualbox_version.PNG "virtualbox version")
 
 ### Vagrant
 Folgend sehen sie die Version der installierten Vagrant-Applikation:
@@ -21,7 +22,7 @@ Folgend sehen sie die Version der installierten Vagrant-Applikation:
           vagrant 2.2.7
 
 
-### Visual Studio Code installieren
+### Visual Studio Codecd
 
 
 
