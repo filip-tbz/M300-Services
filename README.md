@@ -153,6 +153,9 @@ Die Dokumentation habe ich so aufgebaut, dass bereits alle Kriterien der Lernbeu
 
 ### Firewall
 
+Mit folgendem Beispiel kann der Status der Firewall und die eingetragenen Regeln aufgerufen werden:
+            $ ufw status
+
 ### Reverse-Proxy
 
 ### Benutzer- und Rechtevergabe
