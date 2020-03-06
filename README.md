@@ -54,20 +54,16 @@ Laufende Prozesse anzeigen mit folgenden Optionen:
 - rudimentäre Baumstruktur (`f`)
 - Prozesse anderer Benutzer anzeigen (`a`)
 - Besitzer zu jedem Prozess anzeigen (`u`)
-- Prozesse anzeigen, die nicht aus dem Terminal gestartet wurden (`x`)
+- Prozesse anzeigen, die nicht nur aus dem Terminal gestartet wurden (`x`)
  
-
-
-
-
 Verzeichnis wechseln:
 `cd [PATH]`
 
 CLI schliessen:
 `exit`
 
-#### Vagrant Befehle
-Server starten in der CLI:
+### Vagrant Befehle
+Server starten:
 `vagrant up`
 
 Serverstatus der VM aufzeigen:
