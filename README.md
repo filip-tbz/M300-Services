@@ -30,10 +30,18 @@
 Zur Installierung der Toolumgebung müssen folgende Software installiert werden:
 - VirtualBox
 - Vagrant
+- Git-Client
+- SSH-Key für GitHub
 - Visual Studio Code
   - Extensions
-### Github Account einrichten
-Zu Beginn der Installation, muss ein Account bei Github eingerichtet werden. Dieser wird nämlich später als "Cloud-Speicher" verwendet.
+### VirtualBox 
+
+### Vagrant
+Folgend sehen sie die Version der installierten Vagrant-Applikation:
+
+`$ vagrant -v`
+`vagrant 2.2.7`
+
 
 ### VirtualBox installieren
 
