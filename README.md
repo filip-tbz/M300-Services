@@ -79,18 +79,13 @@ Folgend sehen sie die Version des installierten Git-Clients:
           Persönlicher Wissenstand
           Wichtige Lernschritte
 
-## Wissenstand
-### Linux
+### Github-Account
 
-### Vagrant
+[Github-Account von Shagithijan Baasgaran](https://github.com/tbzsaii)
 
-### Virtualisierung
+### Git-Client
 
-### Git
-
-### Markdown
-
-### Systemsicherheit
+Hier ein Beweis, dass der Git-Client verwendet wurde:
 
 
 
