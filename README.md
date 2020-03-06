@@ -40,6 +40,7 @@ Zur Installierung der Toolumgebung müssen folgende Software installiert werden:
 Folgend sehen sie die Version der installierten Vagrant-Applikation:
 
 `$ vagrant -v`
+
 `vagrant 2.2.7`
 
 
