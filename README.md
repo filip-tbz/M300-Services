@@ -123,16 +123,15 @@ Die Dokumentation habe ich so aufgebaut, dass bereits alle Kriterien der Lernbeu
 
 ### Vagrant-Befehle
 
-| Befehl         | Funktion       |
-| -------------- | -------------- |
-| vagrant up     ||
-| vagrant status ||
-|||
-|||
-|||
-|||
-|||
-|||
+| Befehl              | Funktion       |
+| ------------------- | -------------- |
+| `vagrant init`      ||
+| `vagrant up`        ||
+| `vagrant ssh`       ||
+| `vagrant status`    ||
+| `vagrant provision` ||
+| `vagrant halt`      ||
+| `vagrant destroy`   ||
 
 ### Eingerichtete Umgebung ist dokumentiert
 
