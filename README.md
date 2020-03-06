@@ -49,12 +49,14 @@ Zu Beginn der Installation, muss ein Account bei Github eingerichtet werden. Die
 Visual Studio Code öffnen:
 `code`
 
-Laufende Prozesse anzeigen mit folgenden Optionen
+Laufende Prozesse anzeigen mit folgenden Optionen:
+ `ps faux`
 - rudimentäre Baumstruktur (`f`)
 - Prozesse anderer Benutzer anzeigen (`a`)
 - Besitzer zu jedem Prozess anzeigen (`u`)
 - Prozesse anzeigen, die nicht aus dem Terminal gestartet wurden (`x`)
- `ps faux`
+ 
+
 
 
 
