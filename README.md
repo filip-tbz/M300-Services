@@ -16,6 +16,7 @@
 ### Vagrant
 Folgend sehen sie die Version der installierten Vagrant-Applikation:
 
+          AzureAD+ShagithijanBaasgaran@DESKTOP-B2E99P6 MINGW64 ~
           $ vagrant -v
           vagrant 2.2.7
 
@@ -23,11 +24,22 @@ Folgend sehen sie die Version der installierten Vagrant-Applikation:
 ### Visual Studio Code installieren
 
 
-### Git-Client
 
+### Git-Client
+Folgend sehen sie die Version des installierten Git-Clients:
+
+          AzureAD+ShagithijanBaasgaran@DESKTOP-B2E99P6 MINGW64 ~
+          $ git --version
+          git version 2.25.0.windows.1
 
 ### SSH-Key für Client erstellt
 
+          ssh -v git@github.com
+          [...]
+          debug1: Authentications that can continue: publickey
+          debug1: Next authentication method: publickey
+          debug1: Offering public key: /c/Users/ShagithijanBaasgaran/.ssh/id_rsa RSA SHA256:KN
+          [...]
 
 ## Kriterien 2
 
