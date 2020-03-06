@@ -152,34 +152,25 @@ Die Dokumentation habe ich so aufgebaut, dass bereits alle Kriterien der Lernbeu
 
 ### Projekt mit Git und Mark Down dokumentiert
 
+## Kriterien 5
+
+                Standard Befehle
+                Reflexion
+                Wissenserweiterung / Fortschritt
+                Links
 
 ### Standard Befehle
 Visual Studio Code öffnen:
-`code`
 
-Laufende Prozesse anzeigen mit folgenden Optionen:
- `ps faux`
-- rudimentäre Baumstruktur (`f`)
-- Prozesse anderer Benutzer anzeigen (`a`)
-- Besitzer zu jedem Prozess anzeigen (`u`)
-- Prozesse anzeigen, die nicht nur aus dem Terminal gestartet wurden (`x`)
+`code`
  
 Verzeichnis wechseln:
+
 `cd [PATH]`
 
 CLI schliessen:
+
 `exit`
-
-### Vagrant Befehle
-Server starten:
-`vagrant up`
-
-Serverstatus der VM aufzeigen:
-`vagrant status`
-
-VM herunterfahren:
-`vagrant halt`
-
 
 ## Reflexion
 
