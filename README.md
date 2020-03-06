@@ -123,6 +123,11 @@ Die Dokumentation habe ich so aufgebaut, dass bereits alle Kriterien der Lernbeu
 
 ### Vagrant-Befehle
 
+| Befehl         | Funktion       |
+| -------------- | -------------- |
+| vagrant up     ||
+| vagrant status ||
+
 ### Eingerichtete Umgebung ist dokumentiert
 
 ### Testfälle
