@@ -5,11 +5,11 @@
 
 ## Kriterien 1
 
-  VirtualBox
-  Vagrant
-  Visualstudio-Code
-  Git-Client
-  SSH-Key für Client erstellt
+          VirtualBox
+          Vagrant
+          Visualstudio-Code
+          Git-Client
+          SSH-Key für Client erstellt
 
 ### VirtualBox 
 
