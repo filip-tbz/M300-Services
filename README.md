@@ -21,7 +21,6 @@ Folgend sehen sie die Version der installierten Vagrant-Applikation:
           $ vagrant -v
           vagrant 2.2.7
 
-
 ### Visual Studio Code
 Nach der Installation wurden 3 weitere wichtige Extensions hinzugefügt:
 
@@ -51,7 +50,6 @@ Nach der Installation wurden 3 weitere wichtige Extensions hinzugefügt:
 
 
    ![alt text](https://github.com/tbzsaii/M300-Services/blob/master/img/visualstudiocode_version.PNG "Visual Studio Code Version")
-
 
 ### Git-Client
 Folgend sehen sie die Version des installierten Git-Clients:
@@ -87,6 +85,57 @@ Folgend sehen sie die Version des installierten Git-Clients:
 
 Hier ein Beweis, dass der Git-Client verwendet wurde:
 
+### Mark Down Dokumentation
+
+### Mark Down Editor
+
+### Mark Down ist strukturiert
+
+### Persönlicher Wissenstand
+
+### Wichtige Lernschritte
+
+## Kriterien 3
+
+            Bestehende VM aus Vagrant-Cloud einrichten
+            Vagrant-Befehle
+            Umgebung dokumentiert
+            Funktionsweise getestet inkl. Testfälle
+            andere vorgefertigte VM auf eigenem Notebook
+            Projekt mit Git und Mark Down dokumentiert
+
+### Bestehende VM aus Vagrant-Cloud
+
+### Vagrant-Befehle
+
+### Eingerichtete Umgebung ist dokumentiert
+
+### Testfälle
+
+### vorgefertigte VM eingerichtet
+
+### Projekt mit Git und Mark Down dokumentiert
+
+## Kriterien 4
+
+            Firewall eingerichtet
+            Reverse-Proxy eingerichtet
+            Benutzer- und Rechtevergabe
+            Zugang mit SSH-Tunnel abgesichert
+            Sicherheitsmassnahmen dokumentiert
+            Projekt mit Git und Mark Down dokumentiert
+
+### Firewall
+
+### Reverse-Proxy
+
+### Benutzer- und Rechtevergabe
+
+### Zugang mit SSH-Tunnel
+
+### Sicherheitsmassnahmen
+
+### Projekt mit Git und Mark Down dokumentiert
 
 
 ### Standard Befehle
