@@ -71,6 +71,13 @@ Folgend sehen sie die Version des installierten Git-Clients:
 
 ## Kriterien 2
 
+          Github-Account ist erstellt
+          Git-Client wurde verwendet
+          Dokumuentation ist als Mark Down vorhanden
+          Mark Down-Editor ausgewählt und eingerichtet
+          Mark Down ist stukturiert
+          Persönlicher Wissenstand
+          Wichtige Lernschritte
 
 ## Wissenstand
 ### Linux
