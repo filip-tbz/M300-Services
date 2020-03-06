@@ -24,19 +24,24 @@ Folgend sehen sie die Version der installierten Vagrant-Applikation:
 
 ### Visual Studio Code
 Nach der Installation wurden 3 weitere wichtige Extensions hinzugefügt
-- Markdown All in One
+  Markdown All in One
+  
             Name: Markdown All in One
             Id: yzhang.markdown-all-in-one
             Description: All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more)
             Version: 2.7.0
             Publisher: Yu Zhang
-- Name: Vagrantfile Support
+
+  Name: Vagrantfile Support
+  
             Name: Vagrantfile Support
             Id: marcostazi.vs-code-vagrantfile
             Description: Provides syntax highlighting support for Vagrantfile, useful if you use Vagrant
             Version: 0.0.7
             Publisher: Marco Stazi
-- vscode-pdf Extension
+
+  vscode-pdf Extension
+  
             Name: vscode-pdf
             Id: tomoki1207.pdf
             Description: Display pdf file in VSCode.
