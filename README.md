@@ -45,10 +45,26 @@ Zu Beginn der Installation, muss ein Account bei Github eingerichtet werden. Die
 ## Auftrag
 
 
-### Befehle, die man kennen sollte
+### Standard Befehle
 Visual Studio Code öffnen:
 `code`
 
+Laufende Prozesse anzeigen mit folgenden Optionen
+- rudimentäre Baumstruktur (`f`)
+- Prozesse anderer Benutzer anzeigen (`a`)
+- Besitzer zu jedem Prozess anzeigen (`u`)
+- Prozesse anzeigen, die nicht aus dem Terminal gestartet wurden (`x`)
+ `ps faux`
+
+
+
+Verzeichnis wechseln:
+`cd [PATH]`
+
+CLI schliessen:
+`exit`
+
+#### Vagrant Befehle
 Server starten in der CLI:
 `vagrant up`
 
