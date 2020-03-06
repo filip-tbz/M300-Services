@@ -48,10 +48,13 @@ Zu Beginn der Installation, muss ein Account bei Github eingerichtet werden. Die
 ### Befehle, die man kennen sollte
 Visual Studio Code öffnen:
 `code`
+
 Server starten in der CLI:
 `vagrant up`
+
 Serverstatus der VM aufzeigen:
 `vagrant status`
+
 VM herunterfahren:
 `vagrant halt`
 
