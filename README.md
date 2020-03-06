@@ -23,7 +23,8 @@ Folgend sehen sie die Version der installierten Vagrant-Applikation:
 
 
 ### Visual Studio Code
-Nach der Installation wurden 3 weitere wichtige Extensions hinzugefügt
+Nach der Installation wurden 3 weitere wichtige Extensions hinzugefügt:
+
   Markdown All in One
   
             Name: Markdown All in One
@@ -32,7 +33,7 @@ Nach der Installation wurden 3 weitere wichtige Extensions hinzugefügt
             Version: 2.7.0
             Publisher: Yu Zhang
 
-  Name: Vagrantfile Support
+  Vagrantfile Support
   
             Name: Vagrantfile Support
             Id: marcostazi.vs-code-vagrantfile
@@ -41,14 +42,15 @@ Nach der Installation wurden 3 weitere wichtige Extensions hinzugefügt
             Publisher: Marco Stazi
 
   vscode-pdf Extension
-  
+
             Name: vscode-pdf
             Id: tomoki1207.pdf
             Description: Display pdf file in VSCode.
             Version: 0.5.1
             Publisher: tomoki1207
 
-    ![alt text](https://github.com/tbzsaii/M300-Services/blob/master/img/visualstudiocode_version.PNG "Visual Studio Code Version")
+
+   ![alt text](https://github.com/tbzsaii/M300-Services/blob/master/img/visualstudiocode_version.PNG "Visual Studio Code Version")
 
 
 ### Git-Client
