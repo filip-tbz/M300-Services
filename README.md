@@ -125,8 +125,8 @@ Die Dokumentation habe ich so aufgebaut, dass bereits alle Kriterien der Lernbeu
 
 | Befehl              | Funktion       |
 | ------------------- | -------------- |
-| `vagrant init`      ||
-| `vagrant up`        ||
+| `vagrant init`      | Dadurch wird das aktuelle Verzeichnis als Vagrant-Umgebung initialisiert, indem eine erste Vagrant-Datei erstellt wird, falls eine solche noch nicht vorhanden ist.|
+| `vagrant up`        | Dieser Befehl erstellt und konfiguriert Gast-Rechner entsprechend Ihrer Vagrantdatei.|
 | `vagrant ssh`       ||
 | `vagrant status`    ||
 | `vagrant provision` ||
@@ -191,3 +191,4 @@ CLI schliessen:
 ## Links
 
 [Markdown Cheat-Sheet](https://www.markdownguide.org/cheat-sheet/)
+[Vagrant Befehle](https://www.vagrantup.com/docs/)
