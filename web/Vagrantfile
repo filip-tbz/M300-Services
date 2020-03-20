@@ -6,9 +6,6 @@ Vagrant.configure("2") do |config|
   # Machine Settings
   config.vm.hostname = "lxwsrv01"
 
-  # SSH User
-  config.ssh.username = "lx_admin"
-
   # Network Settings
   config.vm.network "forwarded_port", guest:80, host:8080, auto_correct: true
 
