@@ -141,6 +141,11 @@ Für weitere Befehle, gehen sie auf diese Website: [Vagrant Befehle](https://www
 
 ### Eingerichtete Umgebung ist dokumentiert
 
+In meiner Umgebung wurde folgendes erstellt:
+ - Webserver mit Apache
+ - UFW wurde konfiguriert
+ - SSH 
+
 ### Testfälle
 
 ### vorgefertigte VM eingerichtet
