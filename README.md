@@ -164,7 +164,9 @@ Mit folgendem Beispiel kann der Status der Firewall und die eingetragenen Regeln
             To                         Action      From
             --                         ------      ----
             22                         ALLOW       Anywhere
+            8080                       ALLOW       Anywhere
             22 (v6)                    ALLOW       Anywhere (v6)
+            8080 (v6)                  ALLOW       Anywhere (v6)
 
             Anywhere                   DENY OUT    Anywhere
             Anywhere (v6)              DENY OUT    Anywhere (v6)
@@ -176,18 +178,11 @@ Mit folgendem Beispiel kann der Status der Firewall und die eingetragenen Regeln
 
 ### Benutzer- und Rechtevergabe
 
-In meinem Server habe ich folgenden Benutzer erstellt: 
-
-            username: shagithijan
-
-Ich habe diesen Benutzer bereits in die Sudo-Gruppe hinzugefügt:
-
-            usermod -aG sudo shagithijan
-
-Es wurden keine besonderen Rechte zugewiesen. Ich habe nur einen Benutzer erstellt und dem Root-User ein Passwort gesetzt. 
-
+Es wurden keine Benutzer und keine besonderen Rechte zugewiesen. Ich habe alles so belassen, wie es auch aufgesetzt wurde. Der SSH-Benutzer wurde standardmässig erstellt. 
 
 ### Zugang mit SSH-Tunnel
+
+Der Zugang über SSH zum Webserver erfolgt leider nicht wie geplant. 
 
 ### Sicherheitsmassnahmen
 
@@ -200,33 +195,17 @@ Es wurden keine besonderen Rechte zugewiesen. Ich habe nur einen Benutzer erstel
                 Wissenserweiterung / Fortschritt
                 Links
 
-### Standard Befehle
+### Nützliche Befehle
 
-Hintergrundprogramm, das Passwörter für private SSH-Schlüssel behandelt, aufrufen:
+| Befehl                  | Funktion       |
+| ----------------------- | -------------- |
+| `eval 'ssh-agent'`      | Hintergrundprogramm, das Passwörter für private SSH-Schlüssel behandelt, aufrufen.|
+| `ssh-add`               | Fordert den Benutzer zur Eingabe eines Passworts für den privaten Schlüssel auf und fügt es der Liste hinzu, die vom SSH-Agenten verwaltet wird. |
+| `sudo su`               | Root Benutzer auswählen.|
+| `code`                  | Visual Studio Code öffnen.|
+| `cd [PATH]`             | Verzeichnis wechseln.|
+| `exit`                  | CLI schliessen.|
 
-`eval 'ssh-agent'`
-
-Fordert den Benutzer zur Eingabe eines Passworts für den privaten Schlüssel auf und fügt es der Liste hinzu, die vom SSH-Agenten verwaltet wird:
-
-`ssh-add`
-
-`su - username`
-
-Root-Benutzer wählen:
-
-`sudo su`
-
-Visual Studio Code öffnen:
-
-`code`
- 
-Verzeichnis wechseln:
-
-`cd [PATH]`
-
-CLI schliessen:
-
-`exit`
 
 ## Reflexion
 
