@@ -112,7 +112,7 @@ Die Dokumentation habe ich so aufgebaut, dass bereits alle Kriterien der Lernbeu
 
 ### Wichtige Lernschritte
 
-| Thema                 |
+| Thema                 | Lernschritt |
 
 ## Kriterien 3
 
@@ -232,7 +232,7 @@ Der Zugang über SSH zum Webserver erfolgt leider nicht wie geplant. Ich kann ü
 In diesem Dokument wurden folgende Sicherheitsmassnahmen dokumentiert:
 
             - [x] Firewall mit Regeln
-            - [x] SSH Zugang
+            - [ ] SSH Zugang
             - [x] Reverse Proxy 
 
 
