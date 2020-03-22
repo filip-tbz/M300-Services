@@ -209,10 +209,17 @@ Erstelle Benutzer sind in der folgenden Datei ersichtlich:
 
 ### Zugang mit SSH-Tunnel
 
-Der Zugang über SSH zum Webserver erfolgt leider nicht wie geplant. Ich kann über den Git-Client auf den Server mit `vagrant ssh` verbinden. 
+Der Zugang über SSH zum Webserver erfolgt leider nicht wie geplant. Ich kann über den Git-Client auf den Server mit `vagrant ssh` verbinden. Benutzer wurde standardmässig erstellt:
+
+            username: vagrant
 
 ### Sicherheitsmassnahmen
 
+In diesem Dokument wurden folgende Sicherheitsmassnahmen dokumentiert:
+
+            - [x] Firewall mit Regeln
+            - [x] SSH Zugang
+            - [x] Reverse Proxy 
 
 ### Projekt mit Git und Mark Down dokumentiert
 
