@@ -176,13 +176,15 @@ Mit folgendem Beispiel kann der Status der Firewall und die eingetragenen Regeln
 
 ### Reverse-Proxy
 
+Der Reverse-Proxy wurde auch mit installiert und anhand der Anleitung aufgesetzt. 
+
 ### Benutzer- und Rechtevergabe
 
 Es wurden keine Benutzer und keine besonderen Rechte zugewiesen. Ich habe alles so belassen, wie es auch aufgesetzt wurde. Der SSH-Benutzer wurde standardmässig erstellt. 
 
 ### Zugang mit SSH-Tunnel
 
-Der Zugang über SSH zum Webserver erfolgt leider nicht wie geplant. 
+Der Zugang über SSH zum Webserver erfolgt leider nicht wie geplant. Ich kann über den Git-Client auf den Server mit `vagrant ssh` verbinden. 
 
 ### Sicherheitsmassnahmen
 
