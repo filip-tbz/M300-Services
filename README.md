@@ -156,11 +156,34 @@ Für weitere Befehle, gehen sie auf diese Website: [Vagrant Befehle](https://www
 
 Mit folgendem Beispiel kann der Status der Firewall und die eingetragenen Regeln aufgerufen werden:
 
-            $ ufw status
+            shagithijan@lxwsrv01:~$ sudo ufw status
+            Status: active
+
+            To                         Action      From
+            --                         ------      ----
+            22                         ALLOW       Anywhere
+            22 (v6)                    ALLOW       Anywhere (v6)
+
+            Anywhere                   DENY OUT    Anywhere
+            Anywhere (v6)              DENY OUT    Anywhere (v6)
+
+            shagithijan@lxwsrv01:~$
+
 
 ### Reverse-Proxy
 
 ### Benutzer- und Rechtevergabe
+
+In meinem Server habe ich folgenden Benutzer erstellt: 
+
+            username: shagithijan
+
+Ich habe diesen Benutzer bereits in die Sudo-Gruppe hinzugefügt:
+
+            usermod -aG sudo shagithijan
+
+Es wurden keine besonderen Rechte zugewiesen. Ich habe nur einen Benutzer erstellt und dem Root-User ein Passwort gesetzt. 
+
 
 ### Zugang mit SSH-Tunnel
 
@@ -176,6 +199,21 @@ Mit folgendem Beispiel kann der Status der Firewall und die eingetragenen Regeln
                 Links
 
 ### Standard Befehle
+
+Hintergrundprogramm, das Passwörter für private SSH-Schlüssel behandelt, aufrufen:
+
+`eval 'ssh-agent'`
+
+Fordert den Benutzer zur Eingabe eines Passworts für den privaten Schlüssel auf und fügt es der Liste hinzu, die vom SSH-Agenten verwaltet wird:
+
+`ssh-add`
+
+`su - username`
+
+Root-Benutzer wählen:
+
+`sudo su`
+
 Visual Studio Code öffnen:
 
 `code`

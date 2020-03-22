@@ -23,13 +23,9 @@ Vagrant.configure("2") do |config|
   # Get the latest updates
   sudo apt-get update
 
-  # Install the service
+  # Install the service, firewall and proxy
   sudo apt-get install apache2 -y
-
-  # Install the firewall
   sudo apt-get install ufw -y
-
-  # Install Reverse Proxy
   sudo apt-get install libxml2-dev -y
 
   ## Firewall Rules, Settigs
