@@ -85,6 +85,8 @@ Folgend sehen sie die Version des installierten Git-Clients:
 
 Hier ein Beweis, dass der Git-Client verwendet wurde:
 
+[Git-Client](img/Git-Client.PNG)
+
 ### Mark Down Dokumentation
 
 Ich habe die Dokumentation in der README.md Datei erfasst. Das diese in Mark Down geschrieben wurde sollte ersichtlich sein.
