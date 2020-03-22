@@ -112,6 +112,8 @@ Die Dokumentation habe ich so aufgebaut, dass bereits alle Kriterien der Lernbeu
 
 ### Wichtige Lernschritte
 
+| Thema                 |
+
 ## Kriterien 3
 
             Bestehende VM aus Vagrant-Cloud einrichten
@@ -122,7 +124,16 @@ Die Dokumentation habe ich so aufgebaut, dass bereits alle Kriterien der Lernbeu
             Projekt mit Git und Mark Down dokumentiert
 
 ### Bestehende VM aus Vagrant-Cloud
-Zuerst müssen wir ins Verzeichnis wechseln und danach die VM starten.
+Zuerst müssen wir ins Verzeichnis wechseln und danach die VM starten:
+
+            AzureAD+ShagithijanBaasgaran@DESKTOP-B2E99P6 MINGW64 ~
+            $ cd Documents/M300_personal/MeinLokalesRepository/M300-Services/web/
+
+Danach muss die VM vie `vagrant up` gestartet werden:
+
+            AzureAD+ShagithijanBaasgaran@DESKTOP-B2E99P6 MINGW64 ~/Documents/M300_personal/MeinLokalesRepository/M300-Services/web (master)
+            $ vagrant up
+
 
 
 ### Vagrant-Befehle
@@ -141,16 +152,19 @@ Für weitere Befehle, gehen sie auf diese Website: [Vagrant Befehle](https://www
 
 ### Eingerichtete Umgebung ist dokumentiert
 
-In meiner Umgebung wurde folgendes erstellt:
- - Webserver mit Apache
+Netzwerkplan:
+
+[Netzwerkplan](https://github.com/tbzsaii/M300-Services/blob/master/img/netzwerkplan.PNG)
+
+In meiner Umgebung wurde folgendes erstellt, installiert und konfiguriert:
+ - Apache Webserver
  - UFW wurde konfiguriert
- - SSH 
+ - SSH Zugang
+ - Reverse Proxy
 
 ### Testfälle
 
 ### vorgefertigte VM eingerichtet
-
-### Projekt mit Git und Mark Down dokumentiert
 
 ## Kriterien 4
 
@@ -221,7 +235,6 @@ In diesem Dokument wurden folgende Sicherheitsmassnahmen dokumentiert:
             - [x] SSH Zugang
             - [x] Reverse Proxy 
 
-### Projekt mit Git und Mark Down dokumentiert
 
 ## Kriterien 5
 
