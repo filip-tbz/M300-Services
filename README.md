@@ -122,7 +122,9 @@ Die Dokumentation habe ich so aufgebaut, dass bereits alle Kriterien der Lernbeu
             Projekt mit Git und Mark Down dokumentiert
 
 ### Bestehende VM aus Vagrant-Cloud
-Zuerst müssen wir ins Verzeichnis wechseln.
+Zuerst müssen wir ins Verzeichnis wechseln und danach die VM starten.
+
+
 ### Vagrant-Befehle
 
 | Befehl              | Funktion       |
@@ -178,15 +180,34 @@ Mit folgendem Beispiel kann der Status der Firewall und die eingetragenen Regeln
 
 Der Reverse-Proxy wurde auch mit installiert und anhand der Anleitung aufgesetzt. 
 
+            root@lxwsrv01:/etc/apache2/sites-available# cat 001-reverseproxy.conf
+            # Allgemeine Proxy Einstellungen
+            ProxyRequests Off
+            <Proxy *>
+                    Order deny,allow
+                    Allow from all
+            </Proxy>
+
+            # Weiterleitungen master
+            ProxyPass /master http://master
+            ProxyPassReverse /master http://master
+
+
+
 ### Benutzer- und Rechtevergabe
 
 Es wurden keine Benutzer und keine besonderen Rechte zugewiesen. Ich habe alles so belassen, wie es auch aufgesetzt wurde. Der SSH-Benutzer wurde standardmässig erstellt. 
+
+Erstelle Benutzer sind in der folgenden Datei ersichtlich:
+
+            /etc/passwd
 
 ### Zugang mit SSH-Tunnel
 
 Der Zugang über SSH zum Webserver erfolgt leider nicht wie geplant. Ich kann über den Git-Client auf den Server mit `vagrant ssh` verbinden. 
 
 ### Sicherheitsmassnahmen
+
 
 ### Projekt mit Git und Mark Down dokumentiert
 
