@@ -85,7 +85,7 @@ Folgend sehen sie die Version des installierten Git-Clients:
 
 Hier ein Beweis, dass der Git-Client verwendet wurde:
 
-[Git-Client](https://raw.githubusercontent.com/tbzsaii/M300-Services/master/img/Git-Client.PNG)
+![alt text](https://raw.githubusercontent.com/tbzsaii/M300-Services/master/img/Git-Client.PNG "Git-Client")
 
 ### Mark Down Dokumentation
 
@@ -154,7 +154,7 @@ Für weitere Befehle, gehen sie auf diese Website: [Vagrant Befehle](https://www
 
 Netzwerkplan:
 
-[Netzwerkplan](https://raw.githubusercontent.com/tbzsaii/M300-Services/master/img/netzwerkplan.PNG)
+![alt text](https://raw.githubusercontent.com/tbzsaii/M300-Services/master/img/netzwerkplan.PNG "Netzwerkplan")
 
 In meiner Umgebung wurde folgendes erstellt, installiert und konfiguriert:
  - Apache Webserver
