@@ -1,0 +1,41 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+
+
+Vagrant.configure("2") do |config|
+
+  config.vm.box = "ubuntu/xenial64"
+
+  config.vm.network "forwarded_port", guest:80, host:8080, auto_correct: true
+
+	config.vm.provider "virtualbox" do |vb|
+		vb.memory = 512
+
+end
+
+
+  config.vm.provision "shell", inline: <<-SHELL
+
+  # Get the latest updates
+  sudo apt-get update
+
+  # Install the service, firewall and proxy
+  sudo apt-get install apache2 -y
+  sudo apt-get install ufw -y
+  sudo apt-get install libxml2-dev -y
+
+  ## Firewall Rules, Settigs
+  sudo ufw deny out to any
+  sudo ufw allow from any to any port 22
+  sudo ufw allow from any to any port 80
+  sudo ufw enable
+
+  # Activate modules for proxy
+  sudo a2enmod proxy
+  sudo a2enmod proxy_html
+  sudo a2enmod proxy_http
+
+  # Restart the Service
+  sudo service apache2 restart
+SHELL
+end
