@@ -1,40 +1,18 @@
-# Dokumentation Lernbeurteilung 2
-![alt text](https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/Cloud%20with%20light%20coming%20from%20it%20and%20connected%20vectors%20within.jpg?itok=9i48eejV "Cloud")
-
+# Git Repository M300-Services
 **Modul 300, FR20, Lehrer: Philip Rohr, Autor: Shagithijan Baasgaran** 
 
+In diesem Repository finden sie alle Dateien zur Lernbeurteilung 2
 
-## Kriterien 2
+## QuickLinks
 
-          Github-Account ist erstellt
-          Git-Client wurde verwendet
-          Dokumuentation ist als Mark Down vorhanden
-          Mark Down-Editor ausgewählt und eingerichtet
-          Mark Down ist stukturiert
-          Persönlicher Wissenstand
-          Wichtige Lernschritte
+[title](https://www.example.com)
+[title](https://www.example.com)
+[title](https://www.example.com)
+[title](https://www.example.com)
+[title](https://www.example.com)
+[title](https://www.example.com)
+[title](https://www.example.com)
 
-### Github-Account
-
-[Github-Account von Shagithijan Baasgaran](https://github.com/tbzsaii)
-
-### Git-Client
-
-Hier ein Beweis, dass der Git-Client verwendet wurde:
-
-![alt text](https://raw.githubusercontent.com/tbzsaii/M300-Services/master/img/Git-Client.PNG "Git-Client")
-
-### Mark Down Dokumentation
-
-Ich habe die Dokumentation in der README.md Datei erfasst. Das diese in Mark Down geschrieben wurde sollte ersichtlich sein.
-
-### Mark Down Editor
-
-Ich habe in diesem Fall kein Mark Down Editor benutzt, sondern die README.md Datei in Visual Studio Code bearbeitet, gespeichert, commited und gepusht. Als Alternative hatte ich noch den Editor Atom zur Verfügung, jedoch verwendete ich diesen nicht für die Dokumentation.
-
-### Mark Down ist strukturiert
-
-Die Dokumentation habe ich so aufgebaut, dass bereits alle Kriterien der Lernbeurteilung ersichtlich sind und ob diese erfüllt wurden oder nicht. 
 
 ### Persönlicher Wissenstand
 
