@@ -1,7 +1,7 @@
 # 01-Umgebung
 
 ## VirtualBox 
-![alt text](https://raw.githubusercontent.com/tbzsaii/M300-Services/master/img/virtualbox_version.PNG "Virtualbox Version")
+![alt text](https://github.com/tbzsaii/M300-Services/blob/master/00-Images/virtualbox_version.PNG "Virtualbox Version")
 
 ## Vagrant
 Folgend sehen sie die Version der installierten Vagrant-Applikation:
@@ -38,7 +38,7 @@ Nach der Installation wurden 3 weitere wichtige Extensions hinzugefügt:
             Publisher: tomoki1207
 
 
-   ![alt text](https://github.com/tbzsaii/M300-Services/blob/master/img/visualstudiocode_version.PNG "Visual Studio Code Version")
+   ![alt text](https://github.com/tbzsaii/M300-Services/blob/master/00-Images/visualstudiocode_version.PNG "Visual Studio Code Version")
 
 ## Git-Client
 Folgend sehen sie die Version des installierten Git-Clients:
