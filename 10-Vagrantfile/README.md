@@ -8,3 +8,20 @@
 [title](https://www.example.com)
 
 ## Informationen
+In diesem Dokument finden sie folgende Informationen zu den Vagrant-Files:
+- Vagrant Befehle
+
+
+## Vagrant Befehle
+
+| Befehl              | Funktion       |
+| ------------------- | -------------- |
+| `vagrant init`      | Dadurch wird das aktuelle Verzeichnis als Vagrant-Umgebung initialisiert|
+| `vagrant up`        | Dieser Befehl startet den Gast-Rechner/Virtuelle Maschine.|
+| `vagrant ssh`       | Dadurch wird SSH in einen laufenden Vagrant-Rechner eingespielt und man erhält Zugriff auf die Shell.|
+| `vagrant status`    | Dadruch wird der aktuelle Status des Gastrechners angezeigt. |
+| `vagrant provision` | Dadruch wird der Gast-Rechner aktualisiert, nachdem Änderungen an der Vagrant-Datei vorgenommen wurden.|
+| `vagrant halt`      | Dadurch wird der Gast-Rechner heruntergefahren. |
+| `vagrant destroy`   | Dadurch werden alle Ressourcen, die erstellt wurden zum Gast-Rechner und der Gast-Rechner selbst gelöscht.|
+
+Für weitere Befehle, gehen sie auf diese Website: [Vagrant Befehle](https://www.vagrantup.com/docs/cli/)

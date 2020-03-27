@@ -42,31 +42,10 @@ In diesem Repository finden sie alle Dateien zur Lernbeurteilung 2
             Projekt mit Git und Mark Down dokumentiert
 
 ### Bestehende VM aus Vagrant-Cloud
-Zuerst müssen wir ins Verzeichnis wechseln und danach die VM starten:
-
-            AzureAD+ShagithijanBaasgaran@DESKTOP-B2E99P6 MINGW64 ~
-            $ cd Documents/M300_personal/MeinLokalesRepository/M300-Services/VM/web/
-
-Danach muss die VM vie `vagrant up` gestartet werden:
-
-            AzureAD+ShagithijanBaasgaran@DESKTOP-B2E99P6 MINGW64 ~/Documents/M300_personal/MeinLokalesRepository/M300-Services/VM/web (master)
-            $ vagrant up 
-
 
 
 ### Vagrant-Befehle
 
-| Befehl              | Funktion       |
-| ------------------- | -------------- |
-| `vagrant init`      | Dadurch wird das aktuelle Verzeichnis als Vagrant-Umgebung initialisiert|
-| `vagrant up`        | Dieser Befehl startet den Gast-Rechner/Virtuelle Maschine.|
-| `vagrant ssh`       | Dadurch wird SSH in einen laufenden Vagrant-Rechner eingespielt und man erhält Zugriff auf die Shell.|
-| `vagrant status`    | Dadruch wird der aktuelle Status des Gastrechners angezeigt. |
-| `vagrant provision` | Dadruch wird der Gast-Rechner aktualisiert, nachdem Änderungen an der Vagrant-Datei vorgenommen wurden.|
-| `vagrant halt`      | Dadurch wird der Gast-Rechner heruntergefahren. |
-| `vagrant destroy`   | Dadurch werden alle Ressourcen, die erstellt wurden zum Gast-Rechner und der Gast-Rechner selbst gelöscht.|
-
-Für weitere Befehle, gehen sie auf diese Website: [Vagrant Befehle](https://www.vagrantup.com/docs/cli/)
 
 ### Eingerichtete Umgebung ist dokumentiert
 
