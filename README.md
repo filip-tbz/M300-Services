@@ -130,12 +130,12 @@ Die Dokumentation habe ich so aufgebaut, dass bereits alle Kriterien der Lernbeu
 Zuerst müssen wir ins Verzeichnis wechseln und danach die VM starten:
 
             AzureAD+ShagithijanBaasgaran@DESKTOP-B2E99P6 MINGW64 ~
-            $ cd Documents/M300_personal/MeinLokalesRepository/M300-Services/VM/lam/
+            $ cd Documents/M300_personal/MeinLokalesRepository/M300-Services/VM/web/
 
 Danach muss die VM vie `vagrant up` gestartet werden:
 
-            AzureAD+ShagithijanBaasgaran@DESKTOP-B2E99P6 MINGW64 ~/Documents/M300_personal/MeinLokalesRepository/M300-Services/web (master)
-            $ vagrant up
+            AzureAD+ShagithijanBaasgaran@DESKTOP-B2E99P6 MINGW64 ~/Documents/M300_personal/MeinLokalesRepository/M300-Services/VM/web (master)
+            $ vagrant up 
 
 
 
