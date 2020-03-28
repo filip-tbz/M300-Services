@@ -43,5 +43,7 @@ Um die `ufw` (uncomplicated firewall) zu installieren, müssen sie folgenden Bef
 Die Firewall Regeln habe ich so definiert, dass zuerst alle Vogefertigte Regeln abgelehnt werden und neu zwei weitere Regeln hinzugefügt werden. 
 
 `Sudo ufw deny out to any`
+
 `sudo ufw allow from any to any port 22`
+
 `sudo ufw allow from any to any port 80`
