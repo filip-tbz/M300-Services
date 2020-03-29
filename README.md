@@ -14,13 +14,6 @@ In diesem Repository finden sie alle Dateien zur Lernbeurteilung 2
 [title](https://www.example.com)
 
 
-### Wichtige Lernschritte
-
-| Thema                 | Lernschritte |
-|-----------------------|--------------|
-|Vagrant                | Von diesem Programm konnte ich in diesem Fach sehr profitieren. Vieles wusste ich garnicht und bin auch froh, dass ich dies lernen durfte, da ich in der nächsten Abteilung Vagrant anwenden kann.|
-|Mark Down              | Mark Down ist eine interessante Sprache, die man in der Freizeit lern|
-
 ## Kriterien 3
 
             Bestehende VM aus Vagrant-Cloud einrichten
