@@ -9,10 +9,20 @@
 
 ## Informationen
 In diesem Dokument finden sie folgende Informationen zu den Vagrant-Files:
-- Vagrant Befehle
+- [Netzwerkplan] (#netzwerkplan)
+- [Vagrantbefehle] (#vagrant-befehle)
+
+## Netzwerkplan
+Logischer Plan:
+
+![alt text](https://github.com/tbzsaii/M300-Services/blob/master/00-Images/netzwerkplan.PNG "Netzwerkplan")
+
+Physischer Plan:
+
+Physisch gesehen sind die Firewall, der Proxy und der Server auf dem Laptop. Das heisst, es gibt keine physischen Geräte sondern nur virtuell vorhanden.
 
 
-## Vagrant Befehle
+## Vagrantbefehle
 
 | Befehl              | Funktion       |
 | ------------------- | -------------- |
