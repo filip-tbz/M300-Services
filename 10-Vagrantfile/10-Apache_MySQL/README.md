@@ -53,8 +53,11 @@ Der Proxy wurde konfiguriert und ist einsatzbereit. Die Website ist nun unter fo
 ### Testfälle
 Für diesen Webserver wurden folgende Tests vorgenommen:
 
-
-
+| Testfall           | Beschreibung               | OK/nicht OK         |
+| ------------------ | -------------------------- | ------------------- |
+| Proxy funktioniert | Der Link https://mysql-m300:8080/phpmyadminer/ kann aufgrufen werden. | OK |
+| Benutzerrechte     | Die erstellen Benutzer können wie berechtigt eine Datei erstellen und bearbeiten. | OK |
+| Curl auf Webserver | curl Anfrage an Webserver wurde gesendet. | OK |
 
 
 
