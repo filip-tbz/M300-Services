@@ -19,18 +19,18 @@ In diesem Repository finden sie alle Informationen zur Lernbeurteilung 2
   - [Links](#links)
 
 ## 00 Images
-Unter diesem Ordner [](https://github.com/tbzsaii/M300-Services/tree/master/00-Images) finden sie alle Bilder, welche in dieser Dokumentation benutzt wurden.
+Unter diesem Ordner [00-Images](https://github.com/tbzsaii/M300-Services/tree/master/00-Images) finden sie alle Bilder, welche in dieser Dokumentation benutzt wurden.
 
 ## 01 Wissenserweiterung
-Unter diesem []() finden sie meine Lernschritte, die ich in diesem Modul erzielt habe. Auch mein aktueller Wissenstand und eine Reflexion finden sie in diesem Ordner.
+Unter diesem [01-Wissenserweiterung](https://github.com/tbzsaii/M300-Services/tree/master/01-Wissenserweiterung) finden sie meine Lernschritte, die ich in diesem Modul erzielt habe. Auch mein aktueller Wissenstand und eine Reflexion finden sie in diesem Ordner.
 
 ## 02 Umgebung
-Unter diesem Ordner []() finden sie die Antworten zu den Kriterien 1 und 2. 
+Unter diesem Ordner [02-Umgebung](https://github.com/tbzsaii/M300-Services/tree/master/02-Umgebung) finden sie die Antworten zu den Kriterien 1 und 2. 
 
 ## 10 Vagrantfiles
-Unter diesem Ordner []() finden sie die VM's die in dieser Lernbeurteilung erstellt wurde und die jeweiligen Vagrantfiles.
+Unter diesem Ordner [10-Vagrantfiles](https://github.com/tbzsaii/M300-Services/tree/master/10-Vagrantfile) finden sie die VM's die in dieser Lernbeurteilung erstellt wurde und die jeweiligen Vagrantfiles.
 ## 20 Theorie
-Unter diesem Ordner []() finden sie Theorieinhalt.
+Unter diesem Ordner [20-Theorie](https://github.com/tbzsaii/M300-Services/tree/master/20_Theorie) finden sie Theorieinhalt.
 
 ## Nützliche Befehle
 
@@ -45,7 +45,5 @@ Unter diesem Ordner []() finden sie Theorieinhalt.
 
 
 ## Links
-
-[Markdown Cheat-Sheet](https://www.markdownguide.org/cheat-sheet/)
-
-[Vagrant](https://www.vagrantup.com/docs/)
+- [Markdown Cheat-Sheet](https://www.markdownguide.org/cheat-sheet/)
+- [Vagrant](https://www.vagrantup.com/docs/)
