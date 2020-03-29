@@ -1,5 +1,18 @@
 # 02-Umgebung
 
+## Inhaltsverzeichnis
+  - [VirtualBox](#virtualbox)
+  - [Vagrant](#vagrant)
+  - [Visual Studio Code](#visual-studio-code)
+  - [Git-Client](#git-client)
+  - [SSH-Key für Client erstellt](#ssh-key-f%c3%bcr-client-erstellt)
+  - [Github-Account](#github-account)
+  - [Git-Client wurde verwendet](#git-client-wurde-verwendet)
+  - [Mark Down Dokumentation](#mark-down-dokumentation)
+  - [Mark Down Editor](#mark-down-editor)
+  - [Mark Down ist strukturiert](#mark-down-ist-strukturiert)
+
+
 ## VirtualBox 
 ![alt text](https://github.com/tbzsaii/M300-Services/blob/master/00-Images/virtualbox_version.PNG "Virtualbox Version")
 
@@ -57,24 +70,24 @@ Folgend sehen sie die Version des installierten Git-Clients:
           [...]
 
 
-### Github-Account
+## Github-Account
 
 [Github-Account von Shagithijan Baasgaran](https://github.com/tbzsaii)
 
-### Git-Client
+## Git-Client wurde verwendet
 
 Hier ein Beweis, dass der Git-Client verwendet wurde:
 
 ![alt text](https://github.com/tbzsaii/M300-Services/blob/master/00-Images/Git-Client.PNG "Git-Client")
 
-### Mark Down Dokumentation
+## Mark Down Dokumentation
 
 Ich habe die Dokumentation in der README.md Datei erfasst. Das diese in Mark Down geschrieben wurde sollte ersichtlich sein.
 
-### Mark Down Editor
+## Mark Down Editor
 
 Ich habe in diesem Fall kein Mark Down Editor benutzt, sondern die README.md Datei in Visual Studio Code bearbeitet, gespeichert, commited und gepusht. Als Alternative hatte ich noch den Editor Atom zur Verfügung, jedoch verwendete ich diesen nicht für die Dokumentation.
 
-### Mark Down ist strukturiert
+## Mark Down ist strukturiert
 
 Die Dokumentation habe ich so aufgebaut, dass in allen Ordner, die angefordeten Kriterien erfüllt werden
