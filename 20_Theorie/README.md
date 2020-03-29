@@ -29,7 +29,7 @@ Berechtigungen werden über ein Konzept verteilt. Die Berechtigungen werden mit 
 |     r-x      | 5    |
 |     rw-      | 6    |
 |     rwx      | 7    |
-| ------------ | ---- | 
+
 
 ## Befehle
 
