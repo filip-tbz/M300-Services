@@ -41,23 +41,17 @@ Vagrant.configure("2") do |config|
   sudo debconf-set-selections <<< "phpmyadmin phpmyadmin/reconfigure-webserver multiselect apache2"
   sudo debconf-set-selections <<< "phpmyadmin phpmyadmin/dbconfig-install boolean false"
   sudo apt-get -yq install phpmyadmin
-
-  # Apache neustarten
-  sudo service apache2 restart
-
   
   ## Firewall Regeln und EInstellungen
   sudo ufw deny out to any
   sudo ufw allow from any to any port 22
   sudo ufw allow from any to any port 80
-  sudo ufw enable
-
+  sudo ufw enable -y
 
   # Proxymodule aktivieren
   sudo a2enmod proxy
   sudo a2enmod proxy_html
   sudo a2enmod proxy_http
-
 
   #Proxykonfiguration
   echo "echo '<VirtualHost *:80>' >> /etc/apache2/sites-available/#{proxy_conf}" | sudo bash
@@ -71,7 +65,6 @@ Vagrant.configure("2") do |config|
   echo "echo '</VirtualHost>' >> /etc/apache2/sites-available/#{proxy_conf}" | sudo bash
       
   sudo a2ensite /etc/apache2/sites-available/#{proxy_conf}
-
 
   #Gruppe Hinzufügen
   groupadd db
