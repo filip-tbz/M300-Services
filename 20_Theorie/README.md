@@ -1,7 +1,7 @@
 # 25-Benutzer und Rechte
 
 ## Inhalt
-
+  - [Benutzer und Rechte](#benutzer-und-rechte)
 
 ## Benutzer und Rechte
 Wie bei allen Betriebssysteme gibt es auch im Linux Benutzer und Rechte. Nebst den Benutzer die wir erstellen, gibt es noch verschiedene Systemdienste, die über eigene Konten verfügen:
