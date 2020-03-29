@@ -14,17 +14,6 @@ In diesem Repository finden sie alle Dateien zur Lernbeurteilung 2
 [title](https://www.example.com)
 
 
-### Persönlicher Wissenstand
-
-| Thema                  | Wissenstand                                                          |
-| ---------------------- | -------------------------------------------------------------------- |
-| Linux                  | Linux habe ich bereits im ÜK gelernt und mehrmals in den Modulen. Linux ist ein vertrautes Betriebssystem mit dem ich ohne Probleme umgehen kann.|
-| Virtualisierung        | Mit Virtualisierung habe ich bereits gearbeitet, jedoch nicht mit Virtual Box. im Normalfall habe ich immer vmWare Workstation benutzt. |
-| Vagrant                | Der Begriff Vagrant kam mir das erste Mal in diesem Modul zu Ohren. Ich habe diese Methode nie gekannt.|
-| Versionsverwaltung/Git | Mit Git habe ich erst kürzlich in der Abteilung verwendet, jedoch nicht so, wie ich es jetzt in diesem Modul benutze. Ich wusste aber, dass es diese Methode gibt.|
-| Mark Down              | Alle meine Dokumentation wurden normal im Word aufgesetzt. Zum ersten Mal verwende ich Mark Down und bin sehr begeistert davon.|
-| Systemsicherheit       | Systemsicherheit war immer ein Thema in jedem Modul. Ich bin mir von den Möglichkeiten bewusst und weiss wie sie am beste anzuwenden sind.|
-
 ### Wichtige Lernschritte
 
 | Thema                 | Lernschritte |

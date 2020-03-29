@@ -2,7 +2,7 @@
 
 ## Persönlicher Wissenstand
 ### Linux
-Über Linux weiss ich Bescheid. Ich habe dieses System im ÜK (überbetrieblichen Kurs) gelernt. Ich hatte dieses System auch in anderen Modulen anzuwenden, da ich meistens einen Linux Server isntallieren musste. Ich kenne mich gut aus mit Linux, daher ist vieles mir schon bekannt.
+Über Linux weiss ich Bescheid. Ich habe dieses System im ÜK gelernt. Ich hatte dieses System auch in anderen Modulen anzuwenden, da ich meistens einen Linux Server isntallieren musste. Ich kenne mich gut aus mit Linux, daher ist mir vieles schon vertraut.
 
 ### Virtualisierung
 Mit der Virtualisierung habe ich bereits zu tun gehabt, jedoch mit einer anderen Applikation. Normalerweise benutze ich immer vmWare Workstation.
