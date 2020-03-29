@@ -7,8 +7,9 @@
 
 ## Informationen
 In diesem Dokument finden sie folgende Informationen zu den Vagrant-Files:
-- [Netzwerkplan] (#netzwerkplan)
-- [Vagrantbefehle] (#vagrant-befehle)
+  - [Netzwerkplan](#netzwerkplan)
+  - [Vagrantbefehle](#vagrantbefehle)
+
 
 ## Netzwerkplan
 Logischer Plan:
