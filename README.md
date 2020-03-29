@@ -42,6 +42,9 @@ Unter diesem Ordner [20-Theorie](https://github.com/tbzsaii/M300-Services/tree/m
 | `code`                  | Visual Studio Code öffnen.|
 | `cd [PATH]`             | Verzeichnis wechseln.|
 | `exit`                  | CLI schliessen.|
+| `git add`               | Änderungen im Verzeichnis wurden gespeichert.|
+| `git commit`            | Änderunge wurden akzeptiert. |
+| `git push`              | Änderunge wurden an Git gesendet und veröffentlicht. |
 
 
 ## Links
