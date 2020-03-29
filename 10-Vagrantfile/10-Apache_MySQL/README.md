@@ -26,10 +26,10 @@ Physisch gesehen sind die Firewall, der Proxy und der Server auf dem Laptop. Das
 
 In meinem Service wurden zwei Benutzer für je einen Service erstellt. Folgend sehen sie eine Tabelle, mit den Benutzer, Gruppen, Home Verzeichnis und Rechten:
 
-| Benutzer           | Gruppen          | Homeverzeichnis            | Rechte              |
-| ------------------ | ---------------- | -------------------------- | ------------------- |
-| dbwilliam          | db               | ~/grp/db                   | r w x               |
-| webmatt            | web              | ~/grp/web                  | r w x               |
+| Benutzer           | Gruppen          | Homeverzeichnis mit Rechten           | 
+| ------------------ | ---------------- | ------------------------------------- |
+| dbwilliam          | db               | ~/grp/db        r w x                 | 
+| webmatt            | web              | ~/grp/web       r w x                 |
 
 
 ## Firewall
