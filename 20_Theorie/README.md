@@ -30,6 +30,10 @@ Berechtigungen werden über ein Konzept verteilt. Die Berechtigungen werden mit 
 |     rw-      | 6    |
 |     rwx      | 7    |
 
+Folgende Befehle können zum Ändern der Rechte nützlich sein:
 
-## Befehle
-
+| Befehl        | Funktion                                             |
+| ------------- | ---------------------------------------------------- | 
+| `chmod`       | Dient zum Setzen der Dateirechte                     |
+| `chown`       | Dient zum Ändern des Dateibesitzers                  |
+| `chgrp`       | Dient zum Ändern der Gruppe einer Datei              |

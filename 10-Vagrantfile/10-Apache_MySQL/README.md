@@ -58,6 +58,6 @@ Für diesen Webserver wurden folgende Tests vorgenommen:
 | Proxy funktioniert | Der Link https://mysql-m300:8080/phpmyadminer/ kann aufgrufen werden. | OK |
 | Benutzerrechte     | Die erstellen Benutzer können wie berechtigt eine Datei erstellen und bearbeiten. | OK |
 | Curl auf Webserver | curl Anfrage an Webserver wurde gesendet. | OK |
-
+| SSH Zugriff        | via `vagrant ssh` auf Webserver zugreifen | OK |
 
 
