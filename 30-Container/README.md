@@ -40,6 +40,7 @@ MySQL Frontend: `docker container run -it -p 8082:80 mysql`
 
 
 ## Volumes zu persisten Datenablage eingerichtet
+Um Daten speichern (persistieren) und auch Daten zwischen Containern austauschen zu können, hat Docker das Konzept der Volumes entwickelt. Volumes sind ganz einfach Verzeichnisse (oder Dateien), die außerhalb des Standard Union File System liegen und als normale Verzeichnisse und Dateien auf dem Host-Dateisystem existieren.
 
 ## Docker Befehle
 | Befehl              | Funktion       |
