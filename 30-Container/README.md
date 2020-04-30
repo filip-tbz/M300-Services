@@ -25,16 +25,24 @@ Apache Backend: `docker container run -d -p 8081:80 --name MyApache httpd`
 
 MySQL Frontend: `docker container run -it -p 8082:80 mysql`
 
- ![](https://github.com/tbzsaii/M300-Services/blob/master/00-Images/docker_run.PNG "docker ps -a")
+ ![](https://github.com/tbzsaii/M300-Services/blob/master/00-Images/docker%20ps%20a.PNG "docker ps -a")
 
  Wenn die Container installiert sind, kann man den Webserver auf dem Browser aufrufen. Dafür einfach http://localhost:8081 eingeben. So sieht es aus, wenn es funktioniert hat:
 
-![](https://github.com/tbzsaii/M300-Services/blob/master/00-Images/docker_run.PNG "docker ps -a")
+![](https://github.com/tbzsaii/M300-Services/blob/master/00-Images/test%20apache.PNG "apache test")
 
 
 ## Volumes zu persisten Datenablage eingerichtet
 
 ## Docker Befehle
+| Befehl              | Funktion       |
+| ------------------- | -------------- |
+| `docker ps -a`      | Dadurch werden Container aufgelistet.|
+| `docker container ls -a`        | Dadurch werden Container aufgelistet, auch die offline.|
+| `docker container stop [ID]`       | Dadurch wird ein Container beendet.|
+| `docker ps -aq`    | Dadurch werden alle Container gestoppt.|
+| `docker container exec -it [NAME] bash` | Dadurch wird ein Container ausgeführt.|
+
 
 ## Testfälle
 
