@@ -41,9 +41,17 @@ MySQL Frontend: `docker container run -it -p 8082:80 mysql`
 | `docker container ls -a`        | Dadurch werden Container aufgelistet, auch die offline.|
 | `docker container stop [ID]`       | Dadurch wird ein Container beendet.|
 | `docker ps -aq`    | Dadurch werden alle Container gestoppt.|
-| `docker container exec -it [NAME] bash` | Dadurch wird ein Container ausgeführt.|
-
+| `docker container exec -it [NAME] bash` | Dadurch wird ein Container ausgeführt und betreten.|
+| `docker images` | Dadurch werden die Images angezeigt.|
+| `docker image build -t` | Dadurch kann man ein Image erstellen.|
 
 ## Testfälle
 
-
+| Testfall                      | OK/Nicht OK    |
+| --------                      | -------------- |
+| Container wird angezeigt      | positiv        |
+| Webseite erreichbar           | positiv        |
+| Applikation erreichbar        | positiv        |
+| Ports sind nicht besetzt      | positiv        |
+| Image funktioniert            | positiv        |
+| Image Dockerhub erreichbar    | positiv        |
