@@ -4,7 +4,7 @@
 
 So stelle ich mir die Umgebung am Schluss vor:
 
-![](https://github.com/tbzsaii/M300-Services/blob/master/00-Images/docker_run.PNG "Docker Run")
+![](https://github.com/tbzsaii/M300-Services/blob/master/00-Images/netzwerkplan%20docker.PNG "Docker Netzwerkplan")
 
 
 ## Docker Installation
