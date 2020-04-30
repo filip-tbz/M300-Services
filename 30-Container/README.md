@@ -62,3 +62,6 @@ MySQL Frontend: `docker container run -it -p 8082:80 mysql`
 | Ports sind nicht besetzt, überschneiden sich nicht     | positiv        |
 | Image wurde erstellt            | positiv        |
 | Dockerhub ist erreichbar    | positiv        |
+
+
+# Image Bereitstellung
