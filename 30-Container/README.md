@@ -49,9 +49,9 @@ MySQL Frontend: `docker container run -it -p 8082:80 mysql`
 
 | Testfall                      | OK/Nicht OK    |
 | --------                      | -------------- |
-| Container wird angezeigt      | positiv        |
-| Webseite erreichbar           | positiv        |
-| Applikation erreichbar        | positiv        |
-| Ports sind nicht besetzt      | positiv        |
-| Image funktioniert            | positiv        |
-| Image Dockerhub erreichbar    | positiv        |
+| Container können angezeigt werden.      | positiv        |
+| Webserver ist erreichbar           | positiv        |
+| Applikation ist erreichbar        | positiv        |
+| Ports sind nicht besetzt, überschneiden sich nicht     | positiv        |
+| Image wurde erstellt            | positiv        |
+| Dockerhub ist erreichbar    | positiv        |
