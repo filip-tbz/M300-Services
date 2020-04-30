@@ -1,5 +1,12 @@
 # 30 Container
 
+## Netzwerkumgebung
+
+So stelle ich mir die Umgebung am Schluss vor:
+
+![](https://github.com/tbzsaii/M300-Services/blob/master/00-Images/docker_run.PNG "Docker Run")
+
+
 ## Docker Installation
 Ich habe Docker auf einer Linux-Umgebung installiert. Dafür habe ich Virutalbox gewählt, da ich bereits meine Kenntnisse gesammelt habe in der vorherigen Übung. 
 
