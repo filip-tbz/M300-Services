@@ -54,7 +54,7 @@ Um Daten speichern (persistieren) und auch Daten zwischen Containern austauschen
 | `docker image build -t` | Dadurch kann man ein Image erstellen.|
 
 ## Wordpress
-In dieser Seite finden sie meine Installation von Wordpress mit MySQL und PHPMyAdmin (00-Wordpress)[https://github.com/tbzsaii/M300-Services/tree/master/30-Container/00-Wordpress]
+In dieser Seite finden sie meine Installation von Wordpress mit MySQL und PHPMyAdmin [00-Wordpress](https://github.com/tbzsaii/M300-Services/tree/master/30-Container/00-Wordpress)
 
 
 ## Testfälle
