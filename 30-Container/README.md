@@ -53,6 +53,7 @@ Um Daten speichern (persistieren) und auch Daten zwischen Containern austauschen
 | `docker images` | Dadurch werden die Images angezeigt.|
 | `docker image build -t` | Dadurch kann man ein Image erstellen.|
 
+
 ## Testfälle
 
 | Testfall                      | OK/Nicht OK    |
@@ -61,8 +62,6 @@ Um Daten speichern (persistieren) und auch Daten zwischen Containern austauschen
 | Webserver ist erreichbar           | positiv        |
 | Applikation ist erreichbar        | positiv        |
 | Ports sind nicht besetzt, überschneiden sich nicht     | positiv        |
-| Image wurde erstellt            | positiv        |
-| Dockerhub ist erreichbar    | positiv        |
+| Dockerlogin funktoniert    | positiv        |
 
 
-# Image Bereitstellung
