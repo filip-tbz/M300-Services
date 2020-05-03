@@ -66,5 +66,8 @@ In dieser Seite finden sie meine Installation von Wordpress mit MySQL und PHPMyA
 | Applikation ist erreichbar        | positiv        |
 | Ports sind nicht besetzt, überschneiden sich nicht     | positiv        |
 | Dockerlogin funktoniert    | positiv        |
+| Wordpress ist erreichbar   | positiv        |
+| phpMyAdmin ist erreichbar  | positiv        |
+| Docker Compose funktioniert| positiv        |
 
 
