@@ -36,6 +36,6 @@ Hat man sich erfolgreich installiert, kann man sich einloggen mit den definierte
 
 Um phpMyAdmin zu testen, gibt http://localhost:8080/ in den Browser ein, dann sollte auch das Anmeldefesnter von phpMyAdmin auftauchen:
 
-![](https://github.com/tbzsaii/M300-Services/blob/master/00-Images/phpmyadmin.PNG "phpMyAdmin-Login")
+![](https://github.com/tbzsaii/M300-Services/blob/master/00-Images/phpmyadmin.png "phpMyAdmin-Login")
 
 
