@@ -6,7 +6,7 @@ Zuerst muss man Docker Compose installieren, falls dies noch nicht installiert w
 
                     root@docker_m300:/home/tbzsaii# apt install docker-compose
 
-Danach habe ich auf Visual Studio Code mein .YAML Datei erstellt und bearbeitet. Auf dieser Seite finden sie, was ich installiert habe dafür. Die Datei finden sie hier: 
+Danach habe ich auf Visual Studio Code mein .YAML Datei erstellt und bearbeitet. Die Datei finden sie hier: 
 
 [Docker-Compose-File](https://github.com/tbzsaii/M300-Services/blob/master/30-Container/00-Wordpress/docker-compose.yaml)
 
